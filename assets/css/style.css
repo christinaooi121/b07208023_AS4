@@ -504,7 +504,7 @@ section {
 }
 #picture3 {
   height: 90vh;
-  background: url("../img/pic3.jpg") center right no-repeat;
+  background: url("../img/pic3.jpg") bottom right no-repeat;
   background-size: cover;
   position: relative;
   padding-right: 300px;
